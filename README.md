@@ -14,6 +14,34 @@ MeepleMetrics is a platform designed for board game groups to track their gaming
 - Monitor gaming trends and preferences
 - Self-hostable solution for gaming groups
 
+## Tech Stack
+
+### Frontend
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+
+### Backend
+- Go (Coming soon)
+- GORM (Coming soon)
+
+## Development
+
+### Prerequisites
+- Node.js
+- pnpm
+- Go 1.21+ (Coming soon)
+
+### Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+```bash
+cd src/frontend
+pnpm install
+```
+
 ## License
 
 This project is licensed under the Business Source License 1.1 - see the [LICENSE.md](LICENSE.md) file for details.
